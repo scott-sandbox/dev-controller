@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "scott-sandbox-dev-controller"
+description: "CloudBees CI configuration bundle for the scott-sandbox dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/scott-sandbox/dev-controller"
+parent: "base"
